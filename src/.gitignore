@@ -1,0 +1,8 @@
+target/
+.idea
+*.iws
+*.inl
+*.ipr
+!**/src/test/**/build/
+build/
+.vscode/
